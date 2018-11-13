@@ -1,0 +1,15 @@
+C:\Users\Seb.MRBRO\source\repos\RPG\WFPFUI\bin\Debug\WFPFUI.exe.config
+C:\Users\Seb.MRBRO\source\repos\RPG\WFPFUI\bin\Debug\WFPFUI.exe
+C:\Users\Seb.MRBRO\source\repos\RPG\WFPFUI\bin\Debug\WFPFUI.pdb
+C:\Users\Seb.MRBRO\source\repos\RPG\WFPFUI\obj\Debug\WFPFUI.csprojAssemblyReference.cache
+C:\Users\Seb.MRBRO\source\repos\RPG\WFPFUI\obj\Debug\MainWindow.g.cs
+C:\Users\Seb.MRBRO\source\repos\RPG\WFPFUI\obj\Debug\App.g.cs
+C:\Users\Seb.MRBRO\source\repos\RPG\WFPFUI\obj\Debug\WFPFUI_MarkupCompile.cache
+C:\Users\Seb.MRBRO\source\repos\RPG\WFPFUI\obj\Debug\WFPFUI_MarkupCompile.lref
+C:\Users\Seb.MRBRO\source\repos\RPG\WFPFUI\obj\Debug\MainWindow.baml
+C:\Users\Seb.MRBRO\source\repos\RPG\WFPFUI\obj\Debug\WFPFUI.g.resources
+C:\Users\Seb.MRBRO\source\repos\RPG\WFPFUI\obj\Debug\WFPFUI.Properties.Resources.resources
+C:\Users\Seb.MRBRO\source\repos\RPG\WFPFUI\obj\Debug\WFPFUI.csproj.GenerateResource.cache
+C:\Users\Seb.MRBRO\source\repos\RPG\WFPFUI\obj\Debug\WFPFUI.csproj.CoreCompileInputs.cache
+C:\Users\Seb.MRBRO\source\repos\RPG\WFPFUI\obj\Debug\WFPFUI.exe
+C:\Users\Seb.MRBRO\source\repos\RPG\WFPFUI\obj\Debug\WFPFUI.pdb
