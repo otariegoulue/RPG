@@ -1,0 +1,7 @@
+C:\Users\Sebastien\Source\Repos\otariegoulue\RPG\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+C:\Users\Sebastien\Source\Repos\otariegoulue\RPG\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Sebastien\Source\Repos\otariegoulue\RPG\Engine\bin\Debug\Engine.dll
+C:\Users\Sebastien\Source\Repos\otariegoulue\RPG\Engine\bin\Debug\Engine.pdb
+C:\Users\Sebastien\Source\Repos\otariegoulue\RPG\Engine\obj\Debug\Engine.dll
+C:\Users\Sebastien\Source\Repos\otariegoulue\RPG\Engine\obj\Debug\Engine.pdb
+C:\Users\Sebastien\Source\Repos\otariegoulue\RPG\Engine\obj\Debug\Engine.g.resources
